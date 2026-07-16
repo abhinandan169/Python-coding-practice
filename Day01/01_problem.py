@@ -8,4 +8,3 @@ if a == (a[::-1]):
 
 else:
     print("This is not a palindrome")    
-

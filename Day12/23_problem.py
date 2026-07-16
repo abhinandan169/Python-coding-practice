@@ -2,7 +2,6 @@
 
 
 nums_of_list = [1, 2, 2, 3, 4, 4, 4, 5]
-
 num_list = []
 
 for i in nums_of_list:
